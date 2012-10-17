@@ -1,3 +1,12 @@
+Note: To install on a RSEchoRap with PrintrBoard Rev, you can use the already compiled hex file in the Hexfiles folders. 
+The Sprinter.cpp.v004.e375.hex work fine with a 3mm filament on a JHead 0.35mm. 
+To upload the software in your board use the instruction located at: http://http://reprap.org/wiki/Printrboard
+Follow the DFU process in section the Loading Firmware (Windows) 
+or the Loading Firmware (Linux).
+
+
+=======================================================================================================================
+
 The leading developers of Sprinter are currently Kliment, caru and midopple, though many others contribute with their patches.
 
 This is a firmware for RAMPS and other reprap single-processor electronics setups. It supports printing from SD card, active heatbed control, and ATmega internal pullups.
